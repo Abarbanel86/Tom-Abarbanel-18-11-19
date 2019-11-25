@@ -1,0 +1,23 @@
+<div class="fav-component" *ngIf="favorites.length > 0; else noFavorites">
+    <h1 class="fav-header">Favorites</h1>
+    <div class="row fav-main" *ngFor="let fav of favorites">
+        <div class="col fav-empty-col"></div>
+        <div class="col fav-day-forcast" >
+            <div class="forcast-card">
+                <h2 class="name">{{ fav.name }}</h2>
+                <img class="fav-weather-icon" src="../../assets/images/sunny.jpg" alt="">
+                <h3 class="temp">{{ fav.minTemp }}<span>&#176;</span> - {{ fav.maxTemp }}<span>&#176;</span></h3>
+            </div>
+        </div>
+        <div class="col fav-empty-col"></div>
+    </div>
+</div>
+
+<ng-template #noFavorites>
+    <div class="nothing-component">
+        <h1 class="nothing-here">Nothing here...</h1>
+    </div>
+</ng-template>
+
+
+

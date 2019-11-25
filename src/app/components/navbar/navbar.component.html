@@ -1,0 +1,17 @@
+<nav class="navbar navbar-dark app-nav">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" routerLink='/'>Weather App</a>
+    </div>
+    <ul class="nav navbar-nav mr-auto mt-2 mt-lg-0">
+      <li class="nav-item app-link">
+        <a class="nav-link" routerLink='/favorites' routerLinkActive="['active']" [routerLinkActiveOptions]="{exact: true}">Favorites</a>
+      </li>
+    </ul>
+  
+    <div class="custom-control custom-switch">
+      <input type="checkbox" class="custom-control-input" id="customSwitch2" (change)="toggleTempMode()">
+      <label class="custom-control-label toggle-text nav-switch" for="customSwitch2">Farenhite</label>
+    </div>
+  </div>
+</nav>

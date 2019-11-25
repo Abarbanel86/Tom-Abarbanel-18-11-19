@@ -1,0 +1,22 @@
+<div class="row">
+    <div class="col empty-col"></div>
+    <div class="col form-col">
+        <form class="search-form app-search-form">
+            <mat-form-field class="search-full-width">
+                <input class="search-bar" type="text" placeholder="Enter a city to search for" aria-label="Number" matInput [formControl]="myControl" [matAutocomplete]="auto" (keyup)="onKey($event)" (change)="onKey($event)">
+                <mat-autocomplete #auto="matAutocomplete">
+                    <mat-option *ngFor="let option of options" [value]="option">
+                        {{ option }}
+                    </mat-option>
+                </mat-autocomplete>
+            </mat-form-field>
+        </form>
+    </div>
+    <div class="col empty-col"></div>
+</div>
+<div class="row btn-row">
+    <div class="col btn-col"></div>
+    <button class="col btn-dark search-btn" (click)="onSubmit()">search</button>
+    <div class="col btn-col"></div>
+</div>
+  

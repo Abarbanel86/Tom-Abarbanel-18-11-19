@@ -1,0 +1,102 @@
+.fav-component {
+    background-color: #29335c;
+    min-height: 700px;
+    color: white;
+}
+
+.fav-day-forcast {
+    align-items: center;
+    width: 10%;
+    margin-right: 15px;
+}
+
+.fav-weather-icon {
+    width: 80%;
+    height: 80%;
+    margin: 25px;
+    border-radius: 30px;
+}
+
+.fav-header {
+    text-align: center;
+}
+
+.fav-empty-col {
+    width:30%;
+}
+
+.date {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.name {
+    text-align: center;
+}
+
+.temp {
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.forcast-card {
+    max-width: 50%;
+    margin-top: 10%;
+    background-color: #669bbc;
+    box-shadow: 0 40px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 40px;
+}
+
+.fav-btn {
+    background-color: #669bbc;
+    width: 33%;
+    height: 10%;
+    margin-left: 33%;
+    color: white;
+    font-size: 20px;
+}
+
+.fav-btn:hover {
+    background-color: #2b99dd;
+    width: 33%;
+    height: 10%;
+    margin-left: 33%;
+    color: white;
+    font-size: 20px;
+}
+
+.nothing-here {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.nothing-component {
+    background-color: #29335c;
+    min-height: 700px;
+    color: white;
+}
+
+.no-fav-img {
+    height: 200px;
+}
+
+@media only screen and (max-width: 600px) {
+    .empty-col {
+        display: none;
+    }
+    
+    .forcast-card {
+        margin: 20%;
+        min-width: 250px;
+        margin-top: 70px;
+    }
+
+    .weather-icon {
+        padding: 10%;
+        border-radius: 30px;
+    }
+
+    .main-header {
+        font-size: 30px;
+    }
+  }

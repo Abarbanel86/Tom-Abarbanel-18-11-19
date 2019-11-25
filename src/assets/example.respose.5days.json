@@ -1,0 +1,1235 @@
+{
+    "Headline": {
+      "EffectiveDate": "2019-11-24T19:00:00+08:00",
+      "EffectiveEpochDate": 1574593200,
+      "Severity": 7,
+      "Text": "Air quality will be hazardous Saturday night",
+      "Category": "humidity",
+      "EndDate": "2019-11-25T07:00:00+08:00",
+      "EndEpochDate": 1574636400,
+      "MobileLink": "http://m.accuweather.com/en/hk/new-territories/2333525/extended-weather-forecast/2333525?unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/hk/new-territories/2333525/daily-weather-forecast/2333525?unit=c&lang=en-us"
+    },
+    "DailyForecasts": [
+      {
+        "Date": "2019-11-23T07:00:00+08:00",
+        "EpochDate": 1574463600,
+        "Sun": {
+          "Rise": "2019-11-23T06:41:00+08:00",
+          "EpochRise": 1574462460,
+          "Set": "2019-11-23T17:39:00+08:00",
+          "EpochSet": 1574501940
+        },
+        "Moon": {
+          "Rise": "2019-11-23T02:56:00+08:00",
+          "EpochRise": 1574448960,
+          "Set": "2019-11-23T15:20:00+08:00",
+          "EpochSet": 1574493600,
+          "Phase": "WaningCrescent",
+          "Age": 26
+        },
+        "Temperature": {
+          "Minimum": {
+            "Value": 16.5,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 24.6,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "RealFeelTemperature": {
+          "Minimum": {
+            "Value": 16.1,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 28.2,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "Value": 16.1,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 23.7,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "HoursOfSun": 10.7,
+        "DegreeDaySummary": {
+          "Heating": {
+            "Value": 0,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Cooling": {
+            "Value": 3,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "AirAndPollen": [
+          {
+            "Name": "AirQuality",
+            "Value": 378,
+            "Category": "Hazardous",
+            "CategoryValue": 6,
+            "Type": "Particle Pollution"
+          },
+          {
+            "Name": "Grass",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Mold",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Ragweed",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Tree",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "UVIndex",
+            "Value": 5,
+            "Category": "Moderate",
+            "CategoryValue": 2
+          }
+        ],
+        "Day": {
+          "Icon": 5,
+          "IconPhrase": "Hazy sunshine",
+          "HasPrecipitation": false,
+          "LocalSource": {
+            "Id": 7,
+            "Name": "Huafeng",
+            "WeatherCode": "53"
+          },
+          "ShortPhrase": "Hazy sunshine",
+          "LongPhrase": "Hazy sunshine; air quality will be hazardous",
+          "PrecipitationProbability": 14,
+          "ThunderstormProbability": 0,
+          "RainProbability": 14,
+          "SnowProbability": 0,
+          "IceProbability": 0,
+          "Wind": {
+            "Speed": {
+              "Value": 9.3,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 74,
+              "Localized": "ENE",
+              "English": "ENE"
+            }
+          },
+          "WindGust": {
+            "Speed": {
+              "Value": 16.7,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 48,
+              "Localized": "NE",
+              "English": "NE"
+            }
+          },
+          "TotalLiquid": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Rain": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Snow": {
+            "Value": 0,
+            "Unit": "cm",
+            "UnitType": 4
+          },
+          "Ice": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "HoursOfPrecipitation": 0,
+          "HoursOfRain": 0,
+          "HoursOfSnow": 0,
+          "HoursOfIce": 0,
+          "CloudCover": 2
+        },
+        "Night": {
+          "Icon": 37,
+          "IconPhrase": "Hazy moonlight",
+          "HasPrecipitation": false,
+          "LocalSource": {
+            "Id": 7,
+            "Name": "Huafeng",
+            "WeatherCode": "53"
+          },
+          "ShortPhrase": "Hazy",
+          "LongPhrase": "Hazy; air quality will be hazardous",
+          "PrecipitationProbability": 0,
+          "ThunderstormProbability": 0,
+          "RainProbability": 0,
+          "SnowProbability": 0,
+          "IceProbability": 0,
+          "Wind": {
+            "Speed": {
+              "Value": 9.3,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 83,
+              "Localized": "E",
+              "English": "E"
+            }
+          },
+          "WindGust": {
+            "Speed": {
+              "Value": 14.8,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 104,
+              "Localized": "ESE",
+              "English": "ESE"
+            }
+          },
+          "TotalLiquid": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Rain": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Snow": {
+            "Value": 0,
+            "Unit": "cm",
+            "UnitType": 4
+          },
+          "Ice": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "HoursOfPrecipitation": 0,
+          "HoursOfRain": 0,
+          "HoursOfSnow": 0,
+          "HoursOfIce": 0,
+          "CloudCover": 6
+        },
+        "Sources": [
+          "AccuWeather",
+          "Huafeng"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/hk/new-territories/2333525/daily-weather-forecast/2333525?day=1&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/hk/new-territories/2333525/daily-weather-forecast/2333525?day=1&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2019-11-24T07:00:00+08:00",
+        "EpochDate": 1574550000,
+        "Sun": {
+          "Rise": "2019-11-24T06:41:00+08:00",
+          "EpochRise": 1574548860,
+          "Set": "2019-11-24T17:39:00+08:00",
+          "EpochSet": 1574588340
+        },
+        "Moon": {
+          "Rise": "2019-11-24T03:58:00+08:00",
+          "EpochRise": 1574539080,
+          "Set": "2019-11-24T16:02:00+08:00",
+          "EpochSet": 1574582520,
+          "Phase": "WaningCrescent",
+          "Age": 27
+        },
+        "Temperature": {
+          "Minimum": {
+            "Value": 17.3,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 22.6,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "RealFeelTemperature": {
+          "Minimum": {
+            "Value": 16.9,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 24.5,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "Value": 16.9,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 21.2,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "HoursOfSun": 9.9,
+        "DegreeDaySummary": {
+          "Heating": {
+            "Value": 0,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Cooling": {
+            "Value": 2,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "AirAndPollen": [
+          {
+            "Name": "AirQuality",
+            "Value": 176,
+            "Category": "Unhealthy",
+            "CategoryValue": 4,
+            "Type": "Particle Pollution"
+          },
+          {
+            "Name": "Grass",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Mold",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Ragweed",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Tree",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "UVIndex",
+            "Value": 5,
+            "Category": "Moderate",
+            "CategoryValue": 2
+          }
+        ],
+        "Day": {
+          "Icon": 5,
+          "IconPhrase": "Hazy sunshine",
+          "HasPrecipitation": false,
+          "LocalSource": {
+            "Id": 7,
+            "Name": "Huafeng",
+            "WeatherCode": "53"
+          },
+          "ShortPhrase": "Hazy sun",
+          "LongPhrase": "Hazy sun; air quality will be very unhealthy",
+          "PrecipitationProbability": 0,
+          "ThunderstormProbability": 0,
+          "RainProbability": 0,
+          "SnowProbability": 0,
+          "IceProbability": 0,
+          "Wind": {
+            "Speed": {
+              "Value": 11.1,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 67,
+              "Localized": "ENE",
+              "English": "ENE"
+            }
+          },
+          "WindGust": {
+            "Speed": {
+              "Value": 16.7,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 83,
+              "Localized": "E",
+              "English": "E"
+            }
+          },
+          "TotalLiquid": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Rain": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Snow": {
+            "Value": 0,
+            "Unit": "cm",
+            "UnitType": 4
+          },
+          "Ice": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "HoursOfPrecipitation": 0,
+          "HoursOfRain": 0,
+          "HoursOfSnow": 0,
+          "HoursOfIce": 0,
+          "CloudCover": 8
+        },
+        "Night": {
+          "Icon": 37,
+          "IconPhrase": "Hazy moonlight",
+          "HasPrecipitation": false,
+          "LocalSource": {
+            "Id": 7,
+            "Name": "Huafeng",
+            "WeatherCode": "53"
+          },
+          "ShortPhrase": "Hazy and humid",
+          "LongPhrase": "Hazy and humid; air quality will be unhealthy for sensitive groups",
+          "PrecipitationProbability": 3,
+          "ThunderstormProbability": 0,
+          "RainProbability": 3,
+          "SnowProbability": 0,
+          "IceProbability": 0,
+          "Wind": {
+            "Speed": {
+              "Value": 11.1,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 74,
+              "Localized": "ENE",
+              "English": "ENE"
+            }
+          },
+          "WindGust": {
+            "Speed": {
+              "Value": 14.8,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 63,
+              "Localized": "ENE",
+              "English": "ENE"
+            }
+          },
+          "TotalLiquid": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Rain": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Snow": {
+            "Value": 0,
+            "Unit": "cm",
+            "UnitType": 4
+          },
+          "Ice": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "HoursOfPrecipitation": 0,
+          "HoursOfRain": 0,
+          "HoursOfSnow": 0,
+          "HoursOfIce": 0,
+          "CloudCover": 1
+        },
+        "Sources": [
+          "AccuWeather",
+          "Huafeng"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/hk/new-territories/2333525/daily-weather-forecast/2333525?day=2&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/hk/new-territories/2333525/daily-weather-forecast/2333525?day=2&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2019-11-25T07:00:00+08:00",
+        "EpochDate": 1574636400,
+        "Sun": {
+          "Rise": "2019-11-25T06:42:00+08:00",
+          "EpochRise": 1574635320,
+          "Set": "2019-11-25T17:38:00+08:00",
+          "EpochSet": 1574674680
+        },
+        "Moon": {
+          "Rise": "2019-11-25T04:59:00+08:00",
+          "EpochRise": 1574629140,
+          "Set": "2019-11-25T16:45:00+08:00",
+          "EpochSet": 1574671500,
+          "Phase": "WaningCrescent",
+          "Age": 29
+        },
+        "Temperature": {
+          "Minimum": {
+            "Value": 15.2,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 21.6,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "RealFeelTemperature": {
+          "Minimum": {
+            "Value": 13.7,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 22.4,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "Value": 13.7,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 20,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "HoursOfSun": 10.3,
+        "DegreeDaySummary": {
+          "Heating": {
+            "Value": 0,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Cooling": {
+            "Value": 0,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "AirAndPollen": [
+          {
+            "Name": "AirQuality",
+            "Value": 147,
+            "Category": "Unhealthy (Sensitive)",
+            "CategoryValue": 3,
+            "Type": "Particle Pollution"
+          },
+          {
+            "Name": "Grass",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Mold",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Ragweed",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Tree",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "UVIndex",
+            "Value": 5,
+            "Category": "Moderate",
+            "CategoryValue": 2
+          }
+        ],
+        "Day": {
+          "Icon": 5,
+          "IconPhrase": "Hazy sunshine",
+          "HasPrecipitation": false,
+          "LocalSource": {
+            "Id": 7,
+            "Name": "Huafeng",
+            "WeatherCode": "53"
+          },
+          "ShortPhrase": "Hazy sun",
+          "LongPhrase": "Hazy sun; air quality will be unhealthy for sensitive groups",
+          "PrecipitationProbability": 7,
+          "ThunderstormProbability": 0,
+          "RainProbability": 7,
+          "SnowProbability": 0,
+          "IceProbability": 0,
+          "Wind": {
+            "Speed": {
+              "Value": 14.8,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 66,
+              "Localized": "ENE",
+              "English": "ENE"
+            }
+          },
+          "WindGust": {
+            "Speed": {
+              "Value": 22.2,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 62,
+              "Localized": "ENE",
+              "English": "ENE"
+            }
+          },
+          "TotalLiquid": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Rain": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Snow": {
+            "Value": 0,
+            "Unit": "cm",
+            "UnitType": 4
+          },
+          "Ice": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "HoursOfPrecipitation": 0,
+          "HoursOfRain": 0,
+          "HoursOfSnow": 0,
+          "HoursOfIce": 0,
+          "CloudCover": 9
+        },
+        "Night": {
+          "Icon": 37,
+          "IconPhrase": "Hazy moonlight",
+          "HasPrecipitation": false,
+          "LocalSource": {
+            "Id": 7,
+            "Name": "Huafeng",
+            "WeatherCode": "53"
+          },
+          "ShortPhrase": "Hazy",
+          "LongPhrase": "Hazy; air quality will be unhealthy for sensitive groups",
+          "PrecipitationProbability": 17,
+          "ThunderstormProbability": 0,
+          "RainProbability": 17,
+          "SnowProbability": 0,
+          "IceProbability": 0,
+          "Wind": {
+            "Speed": {
+              "Value": 13,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 70,
+              "Localized": "ENE",
+              "English": "ENE"
+            }
+          },
+          "WindGust": {
+            "Speed": {
+              "Value": 20.4,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 78,
+              "Localized": "ENE",
+              "English": "ENE"
+            }
+          },
+          "TotalLiquid": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Rain": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Snow": {
+            "Value": 0,
+            "Unit": "cm",
+            "UnitType": 4
+          },
+          "Ice": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "HoursOfPrecipitation": 0,
+          "HoursOfRain": 0,
+          "HoursOfSnow": 0,
+          "HoursOfIce": 0,
+          "CloudCover": 56
+        },
+        "Sources": [
+          "AccuWeather",
+          "Huafeng"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/hk/new-territories/2333525/daily-weather-forecast/2333525?day=3&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/hk/new-territories/2333525/daily-weather-forecast/2333525?day=3&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2019-11-26T07:00:00+08:00",
+        "EpochDate": 1574722800,
+        "Sun": {
+          "Rise": "2019-11-26T06:43:00+08:00",
+          "EpochRise": 1574721780,
+          "Set": "2019-11-26T17:38:00+08:00",
+          "EpochSet": 1574761080
+        },
+        "Moon": {
+          "Rise": "2019-11-26T06:02:00+08:00",
+          "EpochRise": 1574719320,
+          "Set": "2019-11-26T17:31:00+08:00",
+          "EpochSet": 1574760660,
+          "Phase": "New",
+          "Age": 0
+        },
+        "Temperature": {
+          "Minimum": {
+            "Value": 15.5,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 20.2,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "RealFeelTemperature": {
+          "Minimum": {
+            "Value": 14.3,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 21.3,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "Value": 14.3,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 18.7,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "HoursOfSun": 6.2,
+        "DegreeDaySummary": {
+          "Heating": {
+            "Value": 0,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Cooling": {
+            "Value": 0,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "AirAndPollen": [
+          {
+            "Name": "AirQuality",
+            "Value": 0,
+            "Category": "Good",
+            "CategoryValue": 1,
+            "Type": "Ozone"
+          },
+          {
+            "Name": "Grass",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Mold",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Ragweed",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Tree",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "UVIndex",
+            "Value": 5,
+            "Category": "Moderate",
+            "CategoryValue": 2
+          }
+        ],
+        "Day": {
+          "Icon": 3,
+          "IconPhrase": "Partly sunny",
+          "HasPrecipitation": false,
+          "LocalSource": {
+            "Id": 7,
+            "Name": "Huafeng",
+            "WeatherCode": "01"
+          },
+          "ShortPhrase": "Partly sunny",
+          "LongPhrase": "Partly sunny; air quality will be unhealthy for sensitive groups",
+          "PrecipitationProbability": 10,
+          "ThunderstormProbability": 0,
+          "RainProbability": 10,
+          "SnowProbability": 0,
+          "IceProbability": 0,
+          "Wind": {
+            "Speed": {
+              "Value": 13,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 73,
+              "Localized": "ENE",
+              "English": "ENE"
+            }
+          },
+          "WindGust": {
+            "Speed": {
+              "Value": 20.4,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 65,
+              "Localized": "ENE",
+              "English": "ENE"
+            }
+          },
+          "TotalLiquid": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Rain": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Snow": {
+            "Value": 0,
+            "Unit": "cm",
+            "UnitType": 4
+          },
+          "Ice": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "HoursOfPrecipitation": 0,
+          "HoursOfRain": 0,
+          "HoursOfSnow": 0,
+          "HoursOfIce": 0,
+          "CloudCover": 40
+        },
+        "Night": {
+          "Icon": 34,
+          "IconPhrase": "Mostly clear",
+          "HasPrecipitation": false,
+          "LocalSource": {
+            "Id": 7,
+            "Name": "Huafeng",
+            "WeatherCode": "00"
+          },
+          "ShortPhrase": "Mainly clear",
+          "LongPhrase": "Mainly clear",
+          "PrecipitationProbability": 6,
+          "ThunderstormProbability": 0,
+          "RainProbability": 6,
+          "SnowProbability": 0,
+          "IceProbability": 0,
+          "Wind": {
+            "Speed": {
+              "Value": 11.1,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 80,
+              "Localized": "E",
+              "English": "E"
+            }
+          },
+          "WindGust": {
+            "Speed": {
+              "Value": 16.7,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 85,
+              "Localized": "E",
+              "English": "E"
+            }
+          },
+          "TotalLiquid": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Rain": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Snow": {
+            "Value": 0,
+            "Unit": "cm",
+            "UnitType": 4
+          },
+          "Ice": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "HoursOfPrecipitation": 0,
+          "HoursOfRain": 0,
+          "HoursOfSnow": 0,
+          "HoursOfIce": 0,
+          "CloudCover": 13
+        },
+        "Sources": [
+          "AccuWeather",
+          "Huafeng"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/hk/new-territories/2333525/daily-weather-forecast/2333525?day=4&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/hk/new-territories/2333525/daily-weather-forecast/2333525?day=4&unit=c&lang=en-us"
+      },
+      {
+        "Date": "2019-11-27T07:00:00+08:00",
+        "EpochDate": 1574809200,
+        "Sun": {
+          "Rise": "2019-11-27T06:43:00+08:00",
+          "EpochRise": 1574808180,
+          "Set": "2019-11-27T17:38:00+08:00",
+          "EpochSet": 1574847480
+        },
+        "Moon": {
+          "Rise": "2019-11-27T07:04:00+08:00",
+          "EpochRise": 1574809440,
+          "Set": "2019-11-27T18:20:00+08:00",
+          "EpochSet": 1574850000,
+          "Phase": "WaxingCrescent",
+          "Age": 1
+        },
+        "Temperature": {
+          "Minimum": {
+            "Value": 13.1,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 21,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "RealFeelTemperature": {
+          "Minimum": {
+            "Value": 11.4,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 22.3,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "RealFeelTemperatureShade": {
+          "Minimum": {
+            "Value": 11.4,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Maximum": {
+            "Value": 19.6,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "HoursOfSun": 8,
+        "DegreeDaySummary": {
+          "Heating": {
+            "Value": 1,
+            "Unit": "C",
+            "UnitType": 17
+          },
+          "Cooling": {
+            "Value": 0,
+            "Unit": "C",
+            "UnitType": 17
+          }
+        },
+        "AirAndPollen": [
+          {
+            "Name": "AirQuality",
+            "Value": 0,
+            "Category": "Good",
+            "CategoryValue": 1,
+            "Type": "Ozone"
+          },
+          {
+            "Name": "Grass",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Mold",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Ragweed",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "Tree",
+            "Value": 0,
+            "Category": "Low",
+            "CategoryValue": 1
+          },
+          {
+            "Name": "UVIndex",
+            "Value": 5,
+            "Category": "Moderate",
+            "CategoryValue": 2
+          }
+        ],
+        "Day": {
+          "Icon": 2,
+          "IconPhrase": "Mostly sunny",
+          "HasPrecipitation": false,
+          "LocalSource": {
+            "Id": 7,
+            "Name": "Huafeng",
+            "WeatherCode": "00"
+          },
+          "ShortPhrase": "Sunshine and patchy clouds",
+          "LongPhrase": "Sunshine and patchy clouds",
+          "PrecipitationProbability": 9,
+          "ThunderstormProbability": 0,
+          "RainProbability": 9,
+          "SnowProbability": 0,
+          "IceProbability": 0,
+          "Wind": {
+            "Speed": {
+              "Value": 11.1,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 43,
+              "Localized": "NE",
+              "English": "NE"
+            }
+          },
+          "WindGust": {
+            "Speed": {
+              "Value": 16.7,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 33,
+              "Localized": "NNE",
+              "English": "NNE"
+            }
+          },
+          "TotalLiquid": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Rain": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Snow": {
+            "Value": 0,
+            "Unit": "cm",
+            "UnitType": 4
+          },
+          "Ice": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "HoursOfPrecipitation": 0,
+          "HoursOfRain": 0,
+          "HoursOfSnow": 0,
+          "HoursOfIce": 0,
+          "CloudCover": 27
+        },
+        "Night": {
+          "Icon": 34,
+          "IconPhrase": "Mostly clear",
+          "HasPrecipitation": false,
+          "LocalSource": {
+            "Id": 7,
+            "Name": "Huafeng",
+            "WeatherCode": "00"
+          },
+          "ShortPhrase": "Mainly clear",
+          "LongPhrase": "Mainly clear",
+          "PrecipitationProbability": 7,
+          "ThunderstormProbability": 0,
+          "RainProbability": 7,
+          "SnowProbability": 0,
+          "IceProbability": 0,
+          "Wind": {
+            "Speed": {
+              "Value": 13,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 44,
+              "Localized": "NE",
+              "English": "NE"
+            }
+          },
+          "WindGust": {
+            "Speed": {
+              "Value": 18.5,
+              "Unit": "km/h",
+              "UnitType": 7
+            },
+            "Direction": {
+              "Degrees": 41,
+              "Localized": "NE",
+              "English": "NE"
+            }
+          },
+          "TotalLiquid": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Rain": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "Snow": {
+            "Value": 0,
+            "Unit": "cm",
+            "UnitType": 4
+          },
+          "Ice": {
+            "Value": 0,
+            "Unit": "mm",
+            "UnitType": 3
+          },
+          "HoursOfPrecipitation": 0,
+          "HoursOfRain": 0,
+          "HoursOfSnow": 0,
+          "HoursOfIce": 0,
+          "CloudCover": 18
+        },
+        "Sources": [
+          "AccuWeather",
+          "Huafeng"
+        ],
+        "MobileLink": "http://m.accuweather.com/en/hk/new-territories/2333525/daily-weather-forecast/2333525?day=5&unit=c&lang=en-us",
+        "Link": "http://www.accuweather.com/en/hk/new-territories/2333525/daily-weather-forecast/2333525?day=5&unit=c&lang=en-us"
+      }
+    ]
+  }

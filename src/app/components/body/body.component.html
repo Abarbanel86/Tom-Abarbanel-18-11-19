@@ -1,0 +1,17 @@
+<div class="body-component">
+    <h1 class="main-header">The 5 days forcast in {{ this. location }} is: </h1>
+    <div class="row">
+        <button class="btn btn-dark fav-btn" (click)="addToFavorites()">Add To Favorites</button>
+    </div>
+    <div class="row forcast-main" *ngIf="dates.length > 0">
+        <div class="col empty-col"></div>
+        <div class="col day-forcast" *ngFor="let day of days; let i = index" [attr.data-index]="i">
+            <div class="forcast-card">
+                <h2 class="date">{{ dates[i] | date:'shortDate' }}</h2>
+                <img class="weather-icon" src="../../assets/images/sunny.jpg" alt="">
+                <h3 class="temp">{{ tempMin[i] | number : '1.2-2' }} <span>&#176;</span> - {{ tempMax[i] | number : '1.2-2' }} <span>&#176;</span></h3>
+            </div>
+        </div>
+        <div class="col empty-col"></div>
+    </div>
+</div>

@@ -1,0 +1,28 @@
+.toggle-text {
+    color: #0056B3;
+}
+
+.app-nav {
+    background-color: #29335c;
+    color: white;
+}
+
+.nav-switch {
+    color: white;
+    margin: 20px;
+}
+
+.nav-switch:hover {
+    color: #ffdb3f;
+}
+
+.app-link:hover {
+    color: #ffdb3f;
+}
+
+@media only screen and (max-width: 600px) {
+    .nav-switch {
+        margin: auto;
+        margin-left: 10px;
+    }
+}
